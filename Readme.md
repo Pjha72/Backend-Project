@@ -16,4 +16,14 @@ Backend With JavaScript
 
 - [express](https://expressjs.com/)
 
-Whenever you database try to implement in try catch block or asyn/await.
+Whenever you use database try to implement in try catch block or asyn/await.
+
+- [cookie-parser](https://www.npmjs.com/package/cookie-parser)
+
+- [cors](https://www.npmjs.com/package/cors)
+
+- [Middleware Diagram](https://app.eraser.io/workspace/7vKlDwtvAVoyA95seHVJ?origin=share)
+
+- [ApiError](https://nodejs.org/api/errors.html)
+
+- [Server StatusCode](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
