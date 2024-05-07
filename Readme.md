@@ -9,3 +9,11 @@ Backend With JavaScript
 - [Nodemon](https://www.npmjs.com/package/nodemon)
 
 - [prettier](https://www.npmjs.com/package/prettier)
+
+- [dotenv](https://www.npmjs.com/package/dotenv)
+
+- [mongoose](https://mongoosejs.com/docs/)
+
+- [express](https://expressjs.com/)
+
+Whenever you database try to implement in try catch block or asyn/await.
