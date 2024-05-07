@@ -8,4 +8,4 @@ Backend With JavaScript
 
 - [Nodemon](https://www.npmjs.com/package/nodemon)
 
-- []()
+- [prettier](https://www.npmjs.com/package/prettier)
