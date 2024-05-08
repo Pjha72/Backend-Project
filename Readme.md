@@ -27,3 +27,11 @@ Whenever you use database try to implement in try catch block or asyn/await.
 - [ApiError](https://nodejs.org/api/errors.html)
 
 - [Server StatusCode](https://developer.mozilla.org/en-US/docs/Web/HTTP/Status)
+
+- [mongoose-aggregate-paginate](https://www.npmjs.com/package/mongoose-aggregate-paginate-v2)
+
+- [bcrypt](https://www.npmjs.com/package/bcrypt)
+
+- [jsonwebtoken](https://www.npmjs.com/package/jsonwebtoken)
+
+- [mongoose middleware](https://mongoosejs.com/docs/middleware.html)
