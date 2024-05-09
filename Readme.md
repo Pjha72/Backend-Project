@@ -35,3 +35,13 @@ Whenever you use database try to implement in try catch block or asyn/await.
 - [jsonwebtoken](https://www.npmjs.com/package/jsonwebtoken)
 
 - [mongoose middleware](https://mongoosejs.com/docs/middleware.html)
+
+For File Uploading Resources
+
+- [Cloudinary](https://cloudinary.com/)
+
+- [Express-Fileupload](https://www.npmjs.com/package/express-fileupload)
+
+- [Multer](https://www.npmjs.com/package/multer)
+
+- [nodejs-fs](https://nodejs.org/api/fs.html)
