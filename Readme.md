@@ -78,7 +78,7 @@ For File Uploading Resources
 3. Content-Security-Policy
 4. X-XSS-Protection
 
-# HTTP Methods
+## HTTP Methods
 Basic set of operations that can be used to interact with server
 
 1. GET : retrieve a resources
@@ -97,13 +97,13 @@ Basic set of operations that can be used to interact with server
 4. 4xx => Client error
 5. 5xx => Server error
 
-100 - Continue    400 - Bad request
-102 - Processing  401 - Unauthorized
-200 - ok          402 - Payment required
-201 - created     404 - Not Found
-202 - accepted    500 - Internal Server error
-307 - temporary redirect  504 - Gateway timeout
-308 - permanent redirect
+1. 100 - Continue    400 - Bad request
+2. 102 - Processing  401 - Unauthorized
+3. 200 - ok          402 - Payment required
+4. 201 - created     404 - Not Found
+5. 202 - accepted    500 - Internal Server error
+6. 307 - temporary redirect  504 - Gateway timeout
+7. 308 - permanent redirect
 
 
 
